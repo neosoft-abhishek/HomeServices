@@ -1,0 +1,64 @@
+{ 
+    "Services": [
+        {
+            "id": "1",
+            "serviceName": "Home",
+            "icon": "home"
+        },
+        {
+            "id": "2",
+            "serviceName": "Events",
+            "icon": "home"
+        },
+        {
+            "id": "3",
+            "serviceName": "Salon",
+            "icon": "home"
+        },
+        {
+            "id": "4",
+            "serviceName": "AC",
+            "icon": "home"
+        },
+        {
+            "id": "5",
+            "serviceName": "Cleaning",
+            "icon": "home"
+        },
+        {
+            "id": "6",
+            "serviceName": "Plumbing",
+            "icon": "home"
+        },
+        {
+            "id": "7",
+            "serviceName": "Car",
+            "icon": "home"
+        },
+        {
+            "id": "8",
+            "serviceName": "Travel",
+            "icon": "home"
+        },
+        {
+            "id": "9",
+            "serviceName": "Security",
+            "icon": "home"
+        },
+        {
+            "id": "10",
+            "serviceName": "Commercial",
+            "icon": "home"
+        },
+        {
+            "id": "11",
+            "serviceName": "Electrician",
+            "icon": "home"
+        },
+        {
+            "id": "12",
+            "serviceName": "Carpenter",
+            "icon": "home"
+        }
+    ]
+}

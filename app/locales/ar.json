@@ -1,0 +1,195 @@
+{
+    "common": {
+       "Success": "نجح",
+       "success": "نجح",
+       "Error": "خطأ",
+       "error": "خطأ",
+       "SAR": "ريال سعودي",
+       "Cancel": "إلغاء",
+       "Accept": "قبول",
+       "Reject": "رفض",
+       "Next": "التالي",
+       "Amount": "القيمة",
+       "Submit": "إرسال",
+       "Close": "إغلاق"
+    },
+    "Drawer": {
+      "Dashboard": "لوحة القيادة",
+      "Requests": "طلبات",
+      "Profile": "الشخصي",
+      "Refer": "أوص أحد الأصدقاء"
+    },
+    "OTPModal": {
+      "VerificationCodePrompt" : "أدخل كود التفعيل",
+      "SentCodePrompt" : "تم إرسال كود التفعيل إلى الجوال",
+      "ResendOTP" : "إعادة إرسال الكود"
+    },
+    "home": {
+      "Login": "دخول",
+      "Register": "التسجيل",
+      "RegisterPrompt": "ليس لديك حساب؟"
+    },
+    "login": {
+      "Welcome": "مرحبا ",
+      "MobilePrompt": "الرجاء ادخل رقم الجوال ",
+      "LoginSignUp": "تسجيل الدخول‫/‬مستخدم جديد",
+      "SignInLabel": "تسجيل الدخول باستخدام",
+      "GoogleSignIn": "تسجيل الدخول جوجل",
+      "FacebookSignIn": "تسجيل الدخول فيسبوك"
+    },
+    "register": {
+      "WelcomeHead": " أهلا وسهلا بكم في حميد ",
+      "MobilePrompt": "الرجاء ادخل رقم الجوال",
+      "SignInLabel": "تسجيل الدخول باستخدام",
+      "GoogleSignIn": "تسجيل الدخول جوجل",
+      "FacebookSignIn": "تسجيل الدخول فيسبوك",
+      "OTPAlert": "'إعادة إرسال الكود'"
+    },
+    "registerForm": {
+      "MobileLAbel": "الرجاء إدخال رقم الجوال",
+      "FirstNameLabel": "أدخل الأسم الأول",
+      "LastNameLabel": "أدخل إسم العائلة",
+      "EmailLabel": "البريد الالكتروني",
+      "CityLabel": "إختر المدينة",
+      "Next": "التالي",
+      "TermsPrompt": "بالضغط على زر التسجيل، انت توافق على شروط الاستخدام وسياسةالخصوصية ",
+      "SignInLabel": "تسجيل الدخول باستخدام",
+      "GoogleSignIn": "تسجيل الدخول جوجل",
+      "FacebookSignIn": "تسجيل الدخول فيسبوك",
+      "OTPAlert": "'إعادة إرسال الكود'"
+    },
+    "dashboard": {
+      "YourLocation": "موقعك الحالي",
+      "Change": "تغيير",
+      "Recommended": "الخدمات المفضلة",
+      "Title": "لوحة القيادة"
+    },
+    "searchLocations": {
+      "UseCurrentLocation": "استخدم الموقع الحالي",
+      "RecentLocations": "المواقع الاخيرة"
+    },
+    "servicesCat": {
+        "SubCategories": "القوائم الفرعية",
+        "Title": "فئات الخدمة"
+    },
+    "createRequest": {
+      "CreateRequest": "إنشاء طلب الخدمة",
+      "SelectService": "إختيار الخدمة",
+      "SelectAddress": "إختيار العنوان",
+      "AddPhotoPrompt": "إضافة صورة‫/‬فيديو",
+      "Desription": "أدخل الوصف ",
+      "PaymentMethod": "طريقة الدفع",
+      "CardPayment": "الدفع عن طريق الفيزا كارد",
+      "CashPayment": "الدفع كاش",
+      "PromoCodePromt": "أدخل رقم الكوبون هنا",
+      "RequestNow": "اطلب الأن",
+      "RequestLater": "اطلب لاحقا",
+      "createRequestCategoryError":"الرجاء اختيار الخدمة",
+      "createRequestDescriptionError":"الرجاء إدخال الوصف‫.‬",
+      "createRequestImageError":"حمل صورة‫/‬فيديو واحد على الأقل‫.‬",
+      "createRequestPromocodeError":"أدخل رقم الكوبون هنا‫.‬"
+    },
+    "myRequests": {
+      "MyRequests": "طلباتي",
+      "ApprovalHead": "طلب موافقة على عرض السعر",
+      "CompletedHead": "الطلبات المنتهية",
+      "OngoingHead": "الطلبات قيد التنفيذ",
+      "PendingHead": "الطلبات المعلقة"
+    },
+    "requestStatus": {
+      "RequestDetails": "تفاصيل الطلب",
+      "ServiceRequestAccepted": "تم قبول طلب الخدمة",
+      "ServiceProviderArrived": "وصل مزود الخدمة",
+      "QuoteProvided": "تم إرسال عرض السعر عن طريق الفني",
+      "QuoteDetails": "تفاصيل عرض السعر",
+      "QuoteAccepted": "قبول عرض السعر",
+      "TaskDone": "تم التنفيذ ",
+      "TaskDetail": "تفاصيل المهمة",
+      "PaymentDone": "تم الدفع",
+      "Review": "مراجعة"
+    },
+    "quoteDetails": {
+      "QuoteDetails": "تفاصيل عرض السعر",
+      "Product": "المنتج",
+      "Quantity": "الكمية",
+      "Amount": "القيمة",
+      "ServiceCost": "تكلفة الخدمة",
+      "TimeRequired": "الزمن اللازم ‫(‬باليوم‫)‬",
+      "TotalCost": "اجمالي التكلفة",
+      "updateQuoteStatusSuccessMsg":"تم تحديث عرض السعر بنجاح"
+    },
+    "referFriend":{
+      "header":"أوصي أحد الأصدقاء"
+    },
+    "list":{
+      "updateStatusSuccessMsg":"تم تحديث حالة الطلب بنجاح"
+    },
+    "custom":{
+      "loadingSuccess":"نحج التحويل",
+      "loadingConfirm":"هل أنت متأكد؟",
+      "loadingError":"فشل التحويل"
+    },
+    "socialLogin":{
+      "facebookLoginCancelAlert":"تم إلغاء تسجيل الدخول",
+      "facebookLoginErrorAlert":"خطأ في تسجيل الدخول كود‫:‬",
+      "socialLoginSuccess":"تم تسجيل الدخول بنجاح"
+    },
+    "container":{
+      "logOutConfirm":"هل أنت متأكد؟",
+    },
+    "review" : {
+      "Review" : "مراجعه",
+      "rating_title" : "تقييم العميل",
+      "rating_note" : "أدخل عدد النجوم للتقييم"
+    },
+    "socail" : {
+      "Twitter" : "تويتر",
+      "Google" : "جوجل ‫+‬",
+      "Facebook" : "فيسبوك",
+      "More" : "أخرى"
+    },
+    "wallet" : {
+      "title" : "لديك الرصيد التالي‫:‬",
+      "Credits:" : "الرصيد"
+    },
+    "manageAddress":{
+      "updateIdmsg":".خطأ في البيانات",
+      "updateAddressMsg":"الرجاء أدخل العنوان‫.‬",
+      "updateCitymsg":"الرجاء إختيار المدينة‫.‬",
+      "updateZipcodeMsg":"الرجاء إدخال الرمز البريدي‫.‬",
+      "updateAddressSuccessMsg":"تم تحديث العنوان بنجاح‫.‬",
+      "address":"العنوان",
+      "confirm":"هل أنت متأكد؟",
+      "addressDeletion":"تم حذف العنوان بنجاح",
+      "addressAddition":"تم إضافة العنوان بنجاح",
+      "homeAddressMsg":"الرجاء إدخال عنوان المنزل",
+      "homeCitymsg":"الرجاء إدخال المدينة",
+      "homeZipcodeMsg":"الرجاء إدخال الرمز البريدي للمنزل‫.‬",
+      "officeAddressMsg":"الرجاء إدخال عنوان العمل‫.‬",
+      "officeCitymsg":"الرجاء إدخال مدينة العمل‫.‬",
+      "officeZipcodeMsg":"الرجاء إدخال الرمز البريدي للعمل‫.‬",
+      "edit_title": "إضافة عنوان",
+      "add_title" : "إضافة عنوان جديد",
+      "add_button" : "إضافة عنوان",
+      "home_address" : "عنوان المنزل",
+      "office_address" : "عنوان المكتب"
+    },
+    "personalInfo":{
+      "emailError":"الرجاء إدخال البريد الالكتروني‫.‬",
+      "firstNameError":"الرجاء إدخال الاسم الأول‫.‬",
+      "lastNameError":"الرجاء إدخال الاسم العائلة‫.‬",
+      "mobileNoError":"الرجاء إدخال رقم الجوال‫.‬",
+      "cityError":"الرجاء اختيار المدنية‫.‬",
+      "languageError":"الرجاء اختيار اللغة‫.‬",
+      "confirm":"هل أنت متاكد؟",
+      "updateProfile":"تم تحديث العنوان بنجاح"
+    },
+    "cards" : {
+      "add_title" : "إضافة كرت جديد",
+      "acc_no" : "رقم البطاقة",
+      "name" : "الاسم",
+      "expiry" : "الصلاحية",
+      "bank" : "البنك",
+      "CVV" : "CVVرقم الـ"
+    }
+}

@@ -1,0 +1,145 @@
+{
+  "common": {
+    "Success": "Success",
+    "success": "success",
+    "Error": "Error",
+    "error": "error",
+    "SAR": "SAR",
+    "Cancel": "Cancel",
+    "Accept": "Accept",
+    "Reject": "Reject",
+    "Next": "Next",
+    "Amount": "Amount",
+    "Submit": "Submit",
+    "Close": "Close",
+    "Pay" : "Pay"
+  },
+  "Drawer": {
+    "Dashboard": "DashBoard",
+    "Requests": "Requests",
+    "Profile": "Profile",
+    "Refer": "Refer a Friend"
+  },
+  "OTPModal": {
+    "VerificationCodePrompt": "Enter Verification Code",
+    "SentCodePrompt": "We have sent verification code on",
+    "ResendOTP": "Resend OTP"
+  },
+  "home": {
+    "Login": "Login",
+    "Register": "Register",
+    "RegisterPrompt": "Don't have an Account?"
+  },
+  "login": {
+    "Welcome": "Welcome!",
+    "MobilePrompt": "Enter your mobile number here",
+    "LoginSignUp": "Login/SignUp",
+    "SignInLabel": "OR SIGN IN WITH",
+    "GoogleSignIn": "Google Sign In",
+    "FacebookSignIn": "Facebook Sign In"
+  },
+  "register": {
+    "WelcomeHead": "Welcome To Sign Up!",
+    "MobilePrompt": "Enter your mobile number here",
+    "SignInLabel": "OR SIGN IN WITH",
+    "GoogleSignIn": "Google Sign In",
+    "FacebookSignIn": "Facebook Sign In",
+    "OTPAlert": "'OTP sent again!'"
+  },
+  "registerForm": {
+    "MobileLAbel": "Enter your mobile number here",
+    "FirstNameLabel": "Enter your first name",
+    "LastNameLabel": "Enter your last name",
+    "EmailLabel": "Email Address",
+    "CityLabel": "Select City",
+    "Next": "Next",
+    "TermsPrompt": "By signing up, you agree to our terms of use and privacy policy",
+    "SignInLabel": "OR SIGN IN WITH",
+    "GoogleSignIn": "Google Sign In",
+    "FacebookSignIn": "Facebook Sign In",
+    "OTPAlert": "'OTP sent again!'"
+  },
+  "dashboard": {
+    "YourLocation": "Your Location",
+    "Change": "Change",
+    "Recommended": "Recommmended Services",
+    "Title": "Dashboard"
+  },
+  "searchLocations": {
+    "UseCurrentLocation": "Use Current Location",
+    "RecentLocations": "Recent Locations"
+  },
+  "servicesCat": {
+    "SubCategories": "Sub Categories",
+    "Title": "Service Categories"
+  },
+  "createRequest": {
+    "CreateRequest": "Create Request",
+    "SelectService": "Select Services",
+    "SelectAddress": "Select Address",
+    "AddPhotoPrompt": "Add Photos/Video",
+    "Desription": "Enter Description",
+    "PaymentMethod": "Payment Method",
+    "CardPayment": "Card Payment",
+    "CashPayment": "Cash Payment",
+    "PromoCodePromt": "Enter Promo Code Here",
+    "RequestNow": "Request Now",
+    "RequestLater": "Request Later"
+  },
+  "myRequests": {
+    "MyRequests": "My Requests",
+    "ApprovalHead": "Requested For Quote Approval",
+    "CompletedHead": "Completed Requests",
+    "OngoingHead": "Ongoing Requests",
+    "PendingHead": "Pending Requests"
+  },
+  "requestStatus": {
+    "RequestDetails": "Request Details",
+    "ServiceRequestAccepted": "Service Request Accepted",
+    "ServiceProviderArrived": "Service Provider Arrived",
+    "QuoteProvided": "Quote Provided By Service Provider",
+    "QuoteDetails": "Quote Details",
+    "QuoteAccepted": "Quote Accepted",
+    "TaskDone": "Task Done",
+    "TaskDetail": "Task Details",
+    "PaymentDone": "Payment Done",
+    "Review": "Review",
+    "amount_to_pay" : "Total Amount",
+    "PaymentDetails": "Payment Details",
+    "PaymentStatus": "Payment Status",
+    "RequestDescription": "Description",
+    "Category": "Category",
+    "SubCategory" : "Sub Category",
+    "TransactionDetails" : "Transaction Details",
+    "CardNumber" : "Card Number",
+    "PaymentOption": "Payment Option",
+    "TransactionCode" : "Transaction Code",
+    "TrasactionSuccessful" : "Trasaction Successful",
+    "TrasactionFailed" : "Trasaction Failed"
+  },
+  "quoteDetails": {
+    "QuoteDetails": "Quote Details",
+    "Product": "Product",
+    "Quantity": "Quantity",
+    "Amount": "Amount",
+    "ServiceCost": "Service Cost",
+    "TimeRequired": "Time Required (in days)",
+    "TotalCost": "Total Cost"
+  },
+  "referFriend": {
+    "header": "Refer a Friend"
+  },
+  "CreateRequest": {
+    "categoryRequiredError": "Please Select Category.",
+  },
+  "Contact": {
+    "Title": "Contact Us"
+  },
+  "FAQ": {
+    "Title": "FAQ"
+  },
+  "EditAdd": {
+    "Title": "Edit Address",
+    "Address": "Address"
+  }
+}
