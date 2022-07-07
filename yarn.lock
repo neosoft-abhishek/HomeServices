@@ -4625,10 +4625,10 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+moment@^2.29.4:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 morgan@^1.9.0:
   version "1.9.1"
@@ -5641,6 +5641,11 @@ react-native-share@^2.0.0:
   resolved "https://github.com/abbasfreestyle/react-native-slider.git#c53b4965c5e4c3ec258479417898dece367e603e"
   dependencies:
     prop-types "^15.5.6"
+
+react-native-smart-splash-screen@^2.3.5:
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/react-native-smart-splash-screen/-/react-native-smart-splash-screen-2.3.5.tgz#68a1e45bfd708678aa12e65f2ba997ac5c1292a0"
+  integrity sha512-6Sl9UKzYIQu1Yl5SgsQdV4E8hUr1xz3UN1fmuqxHs82KRS9VkXaxkFJG1AIcFQGkKc4W1jQnU/RlP5PO8vezVg==
 
 react-native-switch@^1.5.0:
   version "1.5.0"
